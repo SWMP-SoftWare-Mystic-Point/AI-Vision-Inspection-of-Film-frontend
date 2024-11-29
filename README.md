@@ -37,6 +37,9 @@ AI 비전 검사를 도입함으로써 다음과 같은 기대 효과와 활용 
 - **머신러닝**: TensorFlow
 - **운영체제**: Linux
 
+## Use Case Diagram
+![image](https://github.com/user-attachments/assets/1a385de7-b243-4d36-8927-d477b9987d5a)
+
 ## ERD
 ![image](https://github.com/user-attachments/assets/ea75fae0-e473-4d22-8799-3c3d96363ace)
 
