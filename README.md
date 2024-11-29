@@ -38,4 +38,5 @@ AI 비전 검사를 도입함으로써 다음과 같은 기대 효과와 활용 
 - **운영체제**: Linux
 
 ## ERD
-![er다이어그램 drawio](https://github.com/user-attachments/assets/f7560b77-8569-412d-86f4-9f7b4b11975e)
+![image](https://github.com/user-attachments/assets/ea75fae0-e473-4d22-8799-3c3d96363ace)
+
